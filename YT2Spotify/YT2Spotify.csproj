@@ -7,4 +7,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+        <PackageReference Include="InputSimulator" Version="1.0.4"/>
+        <PackageReference Include="Selenium.WebDriver" Version="4.29.0"/>
+        <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="135.0.7049.1700-beta"/>
+    </ItemGroup>
+
 </Project>
