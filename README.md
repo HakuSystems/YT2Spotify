@@ -19,7 +19,7 @@ Automatically sync your YouTube Music playback with Spotify, enabling your Disco
 - Windows OS
 - Spotify desktop app
 - YouTube Music desktop app ([link](https://github.com/th-ch/youtube-music))
-- .NET 6.0+ runtime
+- .NET 9.0 runtime
 
 ## Quick Start
 1. Run YouTube Music desktop app.
